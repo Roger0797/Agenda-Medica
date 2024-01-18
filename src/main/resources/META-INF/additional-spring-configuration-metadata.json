@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "AgendaMedica.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'AgendaMedica.app.jwtSecret'"
+  },
+  {
+    "name": "AgendaMedica.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'AgendaMedica.app.jwtSecret'"
+  }
+]}
